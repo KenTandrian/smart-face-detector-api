@@ -19,11 +19,12 @@ You can do these commands in Git Bash:\
 `npm run eject`
 
 ## Technologies
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/KenTandrian?tab=repositories&language=javascript)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://github.com/KenTandrian?tab=repositories&language=javascript)
-[![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)](https://github.com/KenTandrian?tab=repositories)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)](https://github.com/KenTandrian?tab=repositories)
-[![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)](https://github.com/KenTandrian?tab=repositories)
+[![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/KenTandrian?tab=repositories&language=javascript)
+[![NodeJS](https://img.shields.io/badge/node.js-%23000000?style=for-the-badge&logo=node.js&logoColor=6DA55F)](https://github.com/KenTandrian?tab=repositories&language=javascript)
+[![Heroku](https://img.shields.io/badge/heroku-%23000000.svg?style=for-the-badge&logo=heroku&logoColor=%23430098)](https://github.com/KenTandrian?tab=repositories)
+[![Postgres](https://img.shields.io/badge/postgres-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192)](https://github.com/KenTandrian?tab=repositories)
+[![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://github.com/KenTandrian?tab=repositories)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/KenTandrian?tab=repositories)
 
 ## Dependencies
 [![bcrypt-nodejs](https://img.shields.io/github/package-json/dependency-version/KenTandrian/smart-face-detector-api/bcrypt-nodejs)](https://www.npmjs.com/package/bcrypt-nodejs)
