@@ -24,7 +24,7 @@ You can do these commands in Git Bash:\
 [![Heroku](https://img.shields.io/badge/heroku-%23000000.svg?style=for-the-badge&logo=heroku&logoColor=%23430098)](https://github.com/KenTandrian?tab=repositories)
 [![Postgres](https://img.shields.io/badge/postgres-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192)](https://github.com/KenTandrian?tab=repositories)
 [![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://github.com/KenTandrian?tab=repositories)
-[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/KenTandrian?tab=repositories)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm)](https://github.com/KenTandrian?tab=repositories)
 
 ## Dependencies
 [![bcrypt-nodejs](https://img.shields.io/github/package-json/dependency-version/KenTandrian/smart-face-detector-api/bcrypt-nodejs)](https://www.npmjs.com/package/bcrypt-nodejs)
