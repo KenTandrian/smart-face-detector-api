@@ -1,4 +1,4 @@
-## Smart Face Detector API
+# Smart Face Detector API
 [![issues](https://img.shields.io/github/issues/KenTandrian/smart-face-detector-api)](https://github.com/KenTandrian/smart-face-detector-api/issues)
 [![language](https://img.shields.io/github/languages/count/KenTandrian/smart-face-detector-api)](https://github.com/KenTandrian/smart-face-detector-api/search?l=javascript)
 [![top-language](https://img.shields.io/github/languages/top/KenTandrian/smart-face-detector-api)](https://github.com/KenTandrian/smart-face-detector-api/search?l=javascript)
