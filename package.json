@@ -1,6 +1,6 @@
 {
   "name": "smart-face-detector-api",
-  "version": "0.1.41",
+  "version": "0.1.44",
   "description": "",
   "main": "index.js",
   "scripts": {
